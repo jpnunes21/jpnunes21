@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de desenvolvimento de software na Trybe.
 
-<div align="center">
+<div>
   <a href="https://github.com/jpnunes21">
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=jpnunes21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>

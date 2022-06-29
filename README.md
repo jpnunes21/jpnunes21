@@ -11,7 +11,6 @@
 
 ### 📬 Get in Touch
 
-- GitHub: www.github.com/jpnunes21
 - LinkedIn: www.linkedin.com/in/joaopedroramoss
 - E-mail: joao.pedro.ramos@outlook.com
 ### 📚 Looking for my Resume? E-Mail me!

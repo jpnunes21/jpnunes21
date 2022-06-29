@@ -1,9 +1,5 @@
 # Hello, I'm João Ramos 👋
 
-![Bash](https://img.shields.io/badge/Bash-Basic-green)
-![HTML](https://img.shields.io/badge/HTML-Basic-green)
-![CSS](https://img.shields.io/badge/CSS-Basic-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic-green)
 
 
 - 🌱 I’m currently learning **Software Development** at Trybe

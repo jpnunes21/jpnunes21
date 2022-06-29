@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning **Software Development** at Trybe
-- ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`
+- ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`,`.node.js`
 
 ### 📬 Get in Touch
 

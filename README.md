@@ -6,7 +6,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Basic-green)
 
 
-- 🔭 Bachelor's degree in **Manufacturing Engineering** at UFF
 - 🌱 I’m currently learning **Software Development** at Trybe
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`
 

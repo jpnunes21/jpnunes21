@@ -2,7 +2,8 @@
 
 - 🌱 Atualmente estou estudando **Software Development** na Trybe
 
-- 🔎 O que eu já aprendi:
+### 🔎 O que eu já aprendi:
+
 <ul>
   <li><img align="center" alt="Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <li><img align="center" alt="Git" height="30" width="70" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">

@@ -1,9 +1,6 @@
 # Hello, I'm João Ramos 👋
 
-
-
-- 🌱 I’m currently learning **Software Development** at Trybe
-- ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`,`.node.js`
+- 🌱 Atualmente estou estudando **Software Development** na Trybe
 
 ### 📬 Get in Touch
 

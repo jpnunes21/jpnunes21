@@ -3,8 +3,8 @@
 - 🌱 Atualmente estou estudando **Software Development** na Trybe
 
 - 🔎 O que eu já aprendi:
-
-  <img align="center" alt="Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+<ul>
+  <li><img align="center" alt="Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img align="center" alt="Git" height="30" width="70" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   
   
@@ -29,6 +29,7 @@
   <img align="center" alt="NodeJs" height="30" width="90" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="MySQL" height="30" width="90" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Sequelize" height="30" width="110" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
+</ul>
 
 ### 📬 Entre em contato
 

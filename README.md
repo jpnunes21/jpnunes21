@@ -6,7 +6,7 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="MySQL" height="30" width="90" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="MySQL" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 </div><br>
 

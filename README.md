@@ -1,7 +1,5 @@
 # Olá, eu sou o João 👋
 
-- 🌱 Atualmente estou estudando **Software Development** na Trybe
-
 ### 🔎 O que eu já aprendi:
 
 <ul>
